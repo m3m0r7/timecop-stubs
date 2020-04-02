@@ -1,0 +1,21 @@
+{
+  "name": "m3m0r7/timecop-stubs",
+  "description": "This library supports stubs for timecop for IDE and static analyzing libraries",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "memory"
+    }
+  ],
+  "require": {
+    "php": ">=7"
+  },
+  "autoload": {
+    "files": [
+      "src/Functions.php",
+      "src/Classes.php"
+    ]
+  }
+}
