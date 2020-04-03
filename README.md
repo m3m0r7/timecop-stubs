@@ -6,7 +6,7 @@ This library supports stubs for timecop for IDE and static analyzing libraries.
 # Installation
 
 ```
-composer require-dev m3m0r7/timecop-stubs
+composer require --dev m3m0r7/timecop-stubs
 ```
 
 # Screenshot
