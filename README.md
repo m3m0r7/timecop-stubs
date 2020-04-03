@@ -1,7 +1,7 @@
 # timecop-stubs
 This library supports stubs for timecop for IDE and static analyzing libraries.
 
-- [hnw/Timecop](https://github.com/hnw/php-timecop) 
+- [hnw/php-timecop](https://github.com/hnw/php-timecop) 
 
 # Installation
 
